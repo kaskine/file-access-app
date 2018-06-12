@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">File Access</string>
+    
+    <string name="saveButtonText">Save To File</string>
+    <string name="loadButtonText">Read From File</string>
+    <string name="clearButtonText">Clear Saved Text</string>
+
+    <string name="toastMessage_dataWrite">Data Successfully Saved to Database</string>
+    <string name="toastMessage_dataRead">Data Successfully Read from Database</string>
+    <string name="toastMessage_dataClear">Data Successfully Cleared from Database</string>
+</resources>
